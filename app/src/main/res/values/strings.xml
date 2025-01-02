@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Art Gallery</string>
-    <string name="self_portrait_name">Autoportrait</string>
-    <string name="self_portrait_info">Vincent Van Gogh (1889), huile sur toile</string>
+    <string name="Van_Gogh___Self_Portrait___name">Autoportrait</string>
+    <string name="Van_Gogh___Self_Portrait___info">Vincent Van Gogh (1889), huile sur toile</string>
     <string name="previous">Précédent</string>
     <string name="next">Suivant</string>
+    <string name="Unknown___Tie_Thomas___name">Tie Thomas</string>
+    <string name="Unkown___Tie_Thomas___info">Unknown, (date unkwown)</string>
 </resources>
